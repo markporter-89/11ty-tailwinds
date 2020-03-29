@@ -1,0 +1,23 @@
+{
+  "name": "11ty-tailwinds",
+  "version": "1.0.0",
+  "description": "Site boilerplate built with 11ty and TailwindsCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markporter-89/11ty-tailwinds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markporter-89/11ty-tailwinds/issues"
+  },
+  "homepage": "https://github.com/markporter-89/11ty-tailwinds#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
