@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/markporter-89/11ty-tailwinds#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
